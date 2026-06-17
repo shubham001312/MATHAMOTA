@@ -9,11 +9,7 @@ MATHAMOTA is a private two-person chat app foundation built as a deployable PWA 
 - gallery visibility controls
 - admin-only analytics panel
 - installable web app support
-- lightweight multiplayer game panel
-- Android/iOS wrapper stubs
-
-This is a realistic first delivery, not a full WhatsApp/Messenger clone. It is structured so you can deploy it, extend it, and keep secrets out of the repository.
-
+- 
 ## Upload-ready repo flow
 
 If you want the shortest path:
@@ -31,9 +27,7 @@ If you want the shortest path:
 - iOS wrapper: Swift WKWebView shell
 - Native core stub: C++ secure codec interface
 
-## Security model
-
-- No OTP flow
+## Securit
 - Admin access uses runtime environment variables, not hardcoded source secrets
 - Transport security is intended via HTTPS/WSS in deployment
 - At-rest data protection is handled server-side
