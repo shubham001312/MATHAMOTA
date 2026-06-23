@@ -1,14 +1,6 @@
 # Privacy Policy
 
-MATHAMOTA is a private chat application intended for direct use by the owner and the owner's invited partner.
-
-## Data collected
-
-- account display names
-- chat messages
-- file and media uploads
-- chat preferences such as wallpaper and gallery visibility
-- admin audit logs
+MATHAMOTA is a private chat application intended
 
 ## How data is used
 
